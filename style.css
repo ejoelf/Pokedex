@@ -62,11 +62,16 @@ header {
   margin: 0 auto;
 }
 
+.logo {
+  margin: 0 auto;
+  width: 150px;
+}
+
 .nav-list {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.8rem;
 }
 
 .btn-header {
